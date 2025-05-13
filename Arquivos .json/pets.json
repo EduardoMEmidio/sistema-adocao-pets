@@ -1,0 +1,168 @@
+[
+  {
+    "nome": "Thor",
+    "especie": "Cachorro",
+    "raca": "Labrador",
+    "idade": 3,
+    "porte": "Grande",
+    "peso": 30,
+    "sexo": "Macho",
+    "descricao": "Cachorro amigável e ativo, adora brincar com crianças.",
+    "necessidades_saude": [
+      "Alergia a certos alimentos"
+    ],
+    "tratamentos_continuos": [
+      "Vacinação anual"
+    ],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Mia",
+    "especie": "Gato",
+    "raca": "Siamês",
+    "idade": 2,
+    "porte": "Pequeno",
+    "peso": 4,
+    "sexo": "Fêmea",
+    "descricao": "Gatinha carinhosa, tranquila, ideal para apartamento.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [],
+    "necessidades_especiais": [
+      "Precisa de ambiente silencioso"
+    ],
+    "status": "adotado"
+  },
+  {
+    "nome": "Rex",
+    "especie": "Cachorro",
+    "raca": "Pastor Alemão",
+    "idade": 5,
+    "porte": "Grande",
+    "peso": 35,
+    "sexo": "Macho",
+    "descricao": "Cão protetor e obediente, ótimo para guarda.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [
+      "Vermifugação semestral"
+    ],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Luna",
+    "especie": "Gato",
+    "raca": "Persa",
+    "idade": 4,
+    "porte": "Pequeno",
+    "peso": 3.5,
+    "sexo": "Fêmea",
+    "descricao": "Muito dócil e gosta de colo.",
+    "necessidades_saude": [
+      "Problemas respiratórios leves"
+    ],
+    "tratamentos_continuos": [
+      "Inalação semanal"
+    ],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Bento",
+    "especie": "Cachorro",
+    "raca": "Beagle",
+    "idade": 1,
+    "porte": "Médio",
+    "peso": 10,
+    "sexo": "Macho",
+    "descricao": "Filhote brincalhão e curioso.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Mel",
+    "especie": "Gato",
+    "raca": "Vira-lata",
+    "idade": 3,
+    "porte": "Pequeno",
+    "peso": 4.2,
+    "sexo": "Fêmea",
+    "descricao": "Muito sociável, se dá bem com outros gatos.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [
+      "Ração especial"
+    ],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Apolo",
+    "especie": "Cachorro",
+    "raca": "Boxer",
+    "idade": 6,
+    "porte": "Grande",
+    "peso": 32,
+    "sexo": "Macho",
+    "descricao": "Muito energético e precisa de espaço para correr.",
+    "necessidades_saude": [
+      "Displasia coxofemoral"
+    ],
+    "tratamentos_continuos": [
+      "Fisioterapia"
+    ],
+    "necessidades_especiais": [
+      "Escadas não recomendadas"
+    ],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Nina",
+    "especie": "Gato",
+    "raca": "Angorá",
+    "idade": 2,
+    "porte": "Pequeno",
+    "peso": 3.8,
+    "sexo": "Fêmea",
+    "descricao": "Calma, ideal para lares com idosos.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [],
+    "necessidades_especiais": [],
+    "status": "adotado"
+  },
+  {
+    "nome": "Max",
+    "especie": "Cachorro",
+    "raca": "Poodle",
+    "idade": 7,
+    "porte": "Pequeno",
+    "peso": 6,
+    "sexo": "Macho",
+    "descricao": "Idoso e tranquilo, gosta de dormir bastante.",
+    "necessidades_saude": [
+      "Problemas cardíacos"
+    ],
+    "tratamentos_continuos": [
+      "Remédio diário"
+    ],
+    "necessidades_especiais": [
+      "Ambiente sem escadas"
+    ],
+    "status": "disponível para adoção"
+  },
+  {
+    "nome": "Julie",
+    "especie": "Gato",
+    "raca": "Vira-lata",
+    "idade": 1,
+    "porte": "Pequeno",
+    "peso": 3.2,
+    "sexo": "Fêmea",
+    "descricao": "Muito esperta e brincalhona.",
+    "necessidades_saude": [],
+    "tratamentos_continuos": [],
+    "necessidades_especiais": [],
+    "status": "disponível para adoção"
+  }
+]
