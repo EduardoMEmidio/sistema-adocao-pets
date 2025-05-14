@@ -1,0 +1,147 @@
+{
+  "_id": { "$oid": "6823e0b0cf492a3eb78f2c69" },
+  "nome": "Thor",
+  "especie": "Cachorro",
+  "raca": "Labrador",
+  "idade": { "$numberInt": "3" },
+  "porte": "Grande",
+  "peso": { "$numberInt": "30" },
+  "sexo": "Macho",
+  "descricao": "Cachorro amigável e ativo, adora brincar com crianças.",
+  "necessidades_saude": [
+    "Alergia a certos alimentos"
+  ],
+  "tratamentos_continuos": ["Vacinação anual"],
+  "necessidades_especiais": [],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e0c8cf492a3eb78f2c6a" },
+  "nome": "Mia",
+  "especie": "Gato",
+  "raca": "Siamês",
+  "idade": { "$numberInt": "2" },
+  "porte": "Pequeno",
+  "peso": { "$numberInt": "4" },
+  "sexo": "Fêmea",
+  "descricao": "Gatinha carinhosa, tranquila, ideal para apartamento.",
+  "necessidades_saude": [],
+  "tratamentos_continuos": [],
+  "necessidades_especiais": [
+    "Precisa de ambiente silencioso"
+  ],
+  "status": "adotado"
+}
+{
+  "_id": { "$oid": "6823e0d7cf492a3eb78f2c6b" },
+  "nome": "Rex",
+  "especie": "Cachorro",
+  "raca": "Pastor Alemão",
+  "idade": { "$numberInt": "5" },
+  "porte": "Grande",
+  "peso": { "$numberInt": "35" },
+  "sexo": "Macho",
+  "descricao": "Cão protetor e obediente, ótimo para guarda.",
+  "necessidades_saude": [],
+  "tratamentos_continuos": [
+    "Vermifugação semestral"
+  ],
+  "necessidades_especiais": [],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e0e7cf492a3eb78f2c6c" },
+  "nome": "Luna",
+  "especie": "Gato",
+  "raca": "Persa",
+  "idade": { "$numberInt": "4" },
+  "porte": "Pequeno",
+  "peso": { "$numberDouble": "3.5" },
+  "sexo": "Fêmea",
+  "descricao": "Muito dócil e gosta de colo.",
+  "necessidades_saude": [
+    "Problemas respiratórios leves"
+  ],
+  "tratamentos_continuos": ["Inalação semanal"],
+  "necessidades_especiais": [],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e0f8cf492a3eb78f2c6d" },
+  "nome": "Bento",
+  "especie": "Cachorro",
+  "raca": "Beagle",
+  "idade": { "$numberInt": "1" },
+  "porte": "Médio",
+  "peso": { "$numberInt": "10" },
+  "sexo": "Macho",
+  "descricao": "Filhote brincalhão e curioso.",
+  "necessidades_saude": [],
+  "tratamentos_continuos": [],
+  "necessidades_especiais": [],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e108cf492a3eb78f2c6e" },
+  "nome": "Mel",
+  "especie": "Gato",
+  "raca": "Vira-lata",
+  "idade": { "$numberInt": "3" },
+  "porte": "Pequeno",
+  "peso": { "$numberDouble": "4.2" },
+  "sexo": "Fêmea",
+  "descricao": "Muito sociável, se dá bem com outros gatos.",
+  "necessidades_saude": [],
+  "tratamentos_continuos": ["Ração especial"],
+  "necessidades_especiais": [],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e113cf492a3eb78f2c6f" },
+  "nome": "Apolo",
+  "especie": "Cachorro",
+  "raca": "Boxer",
+  "idade": { "$numberInt": "6" },
+  "porte": "Grande",
+  "peso": { "$numberInt": "32" },
+  "sexo": "Macho",
+  "descricao": "Muito energético e precisa de espaço para correr.",
+  "necessidades_saude": ["Displasia coxofemoral"],
+  "tratamentos_continuos": ["Fisioterapia"],
+  "necessidades_especiais": [
+    "Escadas não recomendadas"
+  ],
+  "status": "disponível para adoção"
+}
+{
+  "_id": { "$oid": "6823e11ecf492a3eb78f2c70" },
+  "nome": "Nina",
+  "especie": "Gato",
+  "raca": "Angorá",
+  "idade": { "$numberInt": "2" },
+  "porte": "Pequeno",
+  "peso": { "$numberDouble": "3.8" },
+  "sexo": "Fêmea",
+  "descricao": "Calma, ideal para lares com idosos.",
+  "necessidades_saude": [],
+  "tratamentos_continuos": [],
+  "necessidades_especiais": [],
+  "status": "adotado"
+}
+{
+  "_id": { "$oid": "6823e12ecf492a3eb78f2c71" },
+  "nome": "Max",
+  "especie": "Cachorro",
+  "raca": "Poodle",
+  "idade": { "$numberInt": "7" },
+  "porte": "Pequeno",
+  "peso": { "$numberInt": "6" },
+  "sexo": "Macho",
+  "descricao": "Idoso e tranquilo, gosta de dormir bastante.",
+  "necessidades_saude": ["Problemas cardíacos"],
+  "tratamentos_continuos": ["Remédio diário"],
+  "necessidades_especiais": [
+    "Ambiente sem escadas"
+  ],
+  "status": "disponível para adoção"
+}

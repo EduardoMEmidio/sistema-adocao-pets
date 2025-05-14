@@ -1,0 +1,40 @@
+{
+  "_id": { "$oid": "6823df49cf492a3eb78f2c61" },
+  "nome": "João Silva",
+  "email": "joao.silva@example.com",
+  "telefone": "(11) 98765-4321",
+  "endereco": "Rua Exemplo, 123, São Paulo",
+  "data_adocao": "2025-05-12T00:00:00Z",
+  "pet_adotado": "68221570aec72754a1c4e724",
+  "observacoes": "Prefere pets de porte pequeno"
+}
+{
+  "_id": { "$oid": "6823df6ccf492a3eb78f2c62" },
+  "nome": "Maria Oliveira",
+  "email": "maria.oliveira@example.com",
+  "telefone": "(11) 92345-6789",
+  "endereco": "Rua A, 234, São Paulo",
+  "data_adocao": "2025-05-01T00:00:00Z",
+  "pet_adotado": "68221570aec72754a1c4e725",
+  "observacoes": "Gosta de gatos calmos"
+}
+{
+  "_id": { "$oid": "6823df89cf492a3eb78f2c63" },
+  "nome": "Carlos Lima",
+  "email": "carlos.lima@example.com",
+  "telefone": "(11) 98765-4322",
+  "endereco": "Rua B, 456, São Paulo",
+  "data_adocao": "2025-04-10T00:00:00Z",
+  "pet_adotado": "68221570aec72754a1c4e726",
+  "observacoes": "Prefere cães para guarda"
+}
+{
+  "_id": { "$oid": "6823df9ccf492a3eb78f2c64" },
+  "nome": "Fernanda Souza",
+  "email": "fernanda.souza@example.com",
+  "telefone": "(11) 93456-7890",
+  "endereco": "Rua C, 789, São Paulo",
+  "data_adocao": "2025-03-28T00:00:00Z",
+  "pet_adotado": "68221570aec72754a1c4e728",
+  "observacoes": "Prefere animais mais ativos"
+}
